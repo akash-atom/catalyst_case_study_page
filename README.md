@@ -26,13 +26,13 @@ GSAP and ScrollTrigger must be loaded via CDN **before** this script:
 After publishing to npm, use the jsDelivr CDN link in your Webflow project's custom code (before `</body>`):
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@aw-webflow/catalyst_case_study_page@1.0.0/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@aw-webflow/catalyst_case_study_page@1.0.0/script.min.js"></script>
 ```
 
 To always use the latest version:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@aw-webflow/catalyst_case_study_page@latest/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@aw-webflow/catalyst_case_study_page@latest/script.min.js"></script>
 ```
 
 ## Deployment Workflow
